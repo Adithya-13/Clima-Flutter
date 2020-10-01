@@ -34,5 +34,5 @@ const kInputDecoration = InputDecoration(
   ),
 );
 
-const apiKey = "368bcb5b6bb50e3e787ea0267abd4db5";
+const apiKey = "YOUR-API KEY";
 const baseURL = "https://api.openweathermap.org/data/2.5/weather";
